@@ -1,0 +1,20 @@
+.job{
+    display: block;
+    padding: 1em 2em;
+    border-bottom: 1px solid rgba(209, 209, 209, 0.719);
+}
+.name{
+    color: rgb(70, 70, 70);
+    font-size: 1.1em;
+}
+.place{
+    color:rgb(117, 117, 117);
+    text-align: center;
+}
+.money{
+    text-align: right;
+    color: red;
+}
+.job :hover{
+    color:rgb(185, 185, 159);
+}

@@ -1,0 +1,20 @@
+.left-nav{
+    width: 100%;
+    border: 3px rgb(83, 83, 83) ;
+    border-style: solid;
+    border-radius: 1em;
+    padding: 0.6em;
+}
+.left-nav > ul > li{
+    padding: 0.2em;
+}
+.left-nav > ul > li > a{
+    color: rgb(78, 78, 78);
+    font-size: 1.2em;
+}
+.text-div{
+    padding: 1em;
+}
+.text-div > p{
+    text-indent: 2em;
+}
