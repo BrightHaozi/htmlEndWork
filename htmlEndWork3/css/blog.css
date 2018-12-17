@@ -1,0 +1,22 @@
+html,
+body {
+  overflow-x: hidden;
+}
+body {
+  padding-top: 70px;
+}
+.list-top{
+    display: block;
+    padding: 0.5em 0;
+    border-bottom: 2px solid rgba(207, 207, 207, 0.425);
+    color: rgb(61, 61, 61);
+}
+.list{
+    display: block;
+    padding: 0.5em 0;
+    border-bottom: 1px solid rgba(207, 207, 207, 0.425);
+    color: rgb(61, 61, 61);
+}
+.list:hover{
+    background-color: rgba(221, 239, 255, 0.719);
+}
